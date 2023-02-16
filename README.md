@@ -1,2 +1,2 @@
 # testProgressions
-A program to calculate the P-Norm (P is any integer power) and euclidean norm of a set of numbers.
+A program to calculate a number of different mathamatical progressions with given inputs within testProgressions.java
